@@ -1,5 +1,3 @@
-# HELP SCRIPT FILE  Utfording 2.3 - sok-2008
-
 library(readr)
 library(ggplot2)    
 library(tidyverse)  
